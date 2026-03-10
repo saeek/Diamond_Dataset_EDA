@@ -38,7 +38,7 @@ This project performs an in-depth exploratory data analysis on the popular Diamo
 - Outlier detection
 - Correlation matrix
 - Impact of carat, cut, color, clarity on price
-- Box plots, violin plots, heatmaps, and pairplots
+- Bar chart ,Box plots, heatmaps
 
 ---
 
